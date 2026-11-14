@@ -1,0 +1,38 @@
+group_value,headcount,employees_left,attrition_rate_pct,group_name
+Human Resources,63,12,19.05,Department
+Research & Development,961,133,13.84,Department
+Sales,446,92,20.63,Department
+Healthcare Representative,131,9,6.87,JobRole
+Human Resources,52,12,23.08,JobRole
+Laboratory Technician,259,62,23.94,JobRole
+Manager,102,5,4.9,JobRole
+Manufacturing Director,145,10,6.9,JobRole
+Research Director,80,2,2.5,JobRole
+Research Scientist,292,47,16.1,JobRole
+Sales Executive,326,57,17.48,JobRole
+Sales Representative,83,33,39.76,JobRole
+18-25,123,44,35.77,Age_Group
+26-35,606,116,19.14,Age_Group
+36-45,468,43,9.19,Age_Group
+46-55,226,26,11.5,Age_Group
+56+,47,8,17.02,Age_Group
+0-1 yrs,215,75,34.88,Tenure_Group
+2-5 yrs,561,87,15.51,Tenure_Group
+6-10 yrs,448,55,12.28,Tenure_Group
+11-20 yrs,180,12,6.67,Tenure_Group
+20+ yrs,66,8,12.12,Tenure_Group
+No,1054,110,10.44,OverTime
+Yes,415,126,30.36,OverTime
+year,1,1,100.0,OverTime
+Low (<3000),395,113,28.61,Salary_Band
+Medium (3000-5999),519,66,12.72,Salary_Band
+High (6000-9999),275,33,12.0,Salary_Band
+Very High (10000+),281,25,8.9,Salary_Band
+1,289,66,22.84,JobSatisfaction
+2,280,46,16.43,JobSatisfaction
+3,442,73,16.52,JobSatisfaction
+4,459,52,11.33,JobSatisfaction
+1,80,25,31.25,WorkLifeBalance
+2,344,58,16.86,WorkLifeBalance
+3,893,127,14.22,WorkLifeBalance
+4,153,27,17.65,WorkLifeBalance

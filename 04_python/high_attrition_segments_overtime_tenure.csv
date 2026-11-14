@@ -1,0 +1,9 @@
+OverTime,Tenure_Group,headcount,employees_left,attrition_rate_pct
+Yes,0-1 yrs,69,38,55.07
+Yes,2-5 yrs,162,51,31.48
+No,0-1 yrs,146,37,25.34
+Yes,6-10 yrs,119,30,25.21
+No,20+ yrs,44,5,11.36
+Yes,11-20 yrs,43,4,9.3
+No,2-5 yrs,399,36,9.02
+No,6-10 yrs,328,24,7.32
