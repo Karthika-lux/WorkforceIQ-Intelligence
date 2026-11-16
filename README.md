@@ -121,9 +121,9 @@ Segment Rate (min 30) = IF([Total Employees] >= 30, [Attrition Rate], BLANK())
 
 ## 7. Python Charts
 
-Charts created by `04_python/hr_attrition_analysis.py` are saved in `06_docs/charts/`, for example:
+Charts created by `04_python/hr_attrition_analysis.py` are saved in `06_docs/charts/`
 
-![Segment heatmaps](06_docs/charts/10_segment_heatmaps.png)
+
 
 ## 8. How to Reproduce
 
